@@ -1,0 +1,186 @@
+
+/* Class = "UIButton"; normalTitle = "Choose Photo"; ObjectID = "1L2-Lh-N7n"; */
+"1L2-Lh-N7n.normalTitle" = "Choose Photo";
+
+/* Class = "UILabel"; text = "Passport/ID"; ObjectID = "2gA-qh-hna"; */
+"2gA-qh-hna.text" = "Passport/ID";
+
+/* Class = "UIButton"; normalTitle = "REGISTER"; ObjectID = "3HI-uS-sm1"; */
+"3HI-uS-sm1.normalTitle" = "REGISTER";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3gg-Gd-G5z"; */
+"3gg-Gd-G5z.text" = "Label";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "5yM-u1-KOg"; */
+"5yM-u1-KOg.text" = "Name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "66z-0S-Xsb"; */
+"66z-0S-Xsb.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6ab-bA-HnB"; */
+"6ab-bA-HnB.text" = "Label";
+
+/* Class = "UILabel"; text = "Bath"; ObjectID = "77l-XC-qfK"; */
+"77l-XC-qfK.text" = "Bath";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "7Ed-Vx-GV1"; */
+"7Ed-Vx-GV1.normalTitle" = "Send";
+
+/* Class = "UILabel"; text = "E-mail"; ObjectID = "85M-Ao-HAG"; */
+"85M-Ao-HAG.text" = "E-mail";
+
+/* Class = "UIButton"; normalTitle = "Choose"; ObjectID = "8d4-4g-8np"; */
+"8d4-4g-8np.normalTitle" = "Choose";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "8xm-0h-zMg"; */
+"8xm-0h-zMg.text" = "Subtitle";
+
+/* Class = "UILabel"; text = "Tip"; ObjectID = "96A-ag-ONR"; */
+"96A-ag-ONR.text" = "Tip";
+
+/* Class = "UILabel"; text = "Drop pin"; ObjectID = "9TN-3Y-cXL"; */
+"9TN-3Y-cXL.text" = "Drop pin";
+
+/* Class = "UILabel"; text = "Avatar :"; ObjectID = "9cq-i0-hjk"; */
+"9cq-i0-hjk.text" = "Avatar :";
+
+/* Class = "UILabel"; text = "Ferarri Enzo"; ObjectID = "AxI-Q7-Omf"; */
+"AxI-Q7-Omf.text" = "Ferarri Enzo";
+
+/* Class = "UILabel"; text = "Rating"; ObjectID = "BwF-Xf-cm7"; */
+"BwF-Xf-cm7.text" = "Rating";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Cs5-Ap-mgP"; */
+"Cs5-Ap-mgP.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Dtm-Ml-YHx"; */
+"Dtm-Ml-YHx.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "Emg-R4-YsW"; */
+"Emg-R4-YsW.normalTitle" = "SIGN IN";
+
+/* Class = "UILabel"; text = "Sex"; ObjectID = "Fzh-68-tTM"; */
+"Fzh-68-tTM.text" = "Sex";
+
+/* Class = "UISegmentedControl"; G1N-TZ-7Py.segmentTitles[0] = "1"; ObjectID = "G1N-TZ-7Py"; */
+"G1N-TZ-7Py.segmentTitles[0]" = "1";
+
+/* Class = "UISegmentedControl"; G1N-TZ-7Py.segmentTitles[1] = "2"; ObjectID = "G1N-TZ-7Py"; */
+"G1N-TZ-7Py.segmentTitles[1]" = "2";
+
+/* Class = "UISegmentedControl"; G1N-TZ-7Py.segmentTitles[2] = "3"; ObjectID = "G1N-TZ-7Py"; */
+"G1N-TZ-7Py.segmentTitles[2]" = "3";
+
+/* Class = "UISegmentedControl"; G1N-TZ-7Py.segmentTitles[3] = "4"; ObjectID = "G1N-TZ-7Py"; */
+"G1N-TZ-7Py.segmentTitles[3]" = "4";
+
+/* Class = "UISegmentedControl"; G1N-TZ-7Py.segmentTitles[4] = "5"; ObjectID = "G1N-TZ-7Py"; */
+"G1N-TZ-7Py.segmentTitles[4]" = "5";
+
+/* Class = "UIButton"; normalTitle = "Request"; ObjectID = "GPR-Bc-Wg5"; */
+"GPR-Bc-Wg5.normalTitle" = "Request";
+
+/* Class = "UILabel"; text = "Search"; ObjectID = "I4J-FB-E0R"; */
+"I4J-FB-E0R.text" = "Search";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "I7Z-LR-cCB"; */
+"I7Z-LR-cCB.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Fare"; ObjectID = "J3O-XS-pUQ"; */
+"J3O-XS-pUQ.text" = "Fare";
+
+/* Class = "UILabel"; text = "Bath"; ObjectID = "J5U-KG-O3b"; */
+"J5U-KG-O3b.text" = "Bath";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "JIJ-Fn-fJO"; */
+"JIJ-Fn-fJO.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "N8M-9n-6qH"; */
+"N8M-9n-6qH.text" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "P1E-0Z-RWn"; */
+"P1E-0Z-RWn.normalTitle" = "Back";
+
+/* Class = "UITabBarItem"; badgeValue = "Search"; ObjectID = "Pzf-MW-w0Z"; */
+"Pzf-MW-w0Z.badgeValue" = "Search";
+
+/* Class = "UITabBarItem"; title = "Search from apple"; ObjectID = "Pzf-MW-w0Z"; */
+"Pzf-MW-w0Z.title" = "Search from apple";
+
+/* Class = "UILabel"; text = "Long press to drop a pin"; ObjectID = "SLs-ae-wHc"; */
+"SLs-ae-wHc.text" = "Long press to drop a pin";
+
+/* Class = "UILabel"; text = "Nationality"; ObjectID = "SOB-W0-BBu"; */
+"SOB-W0-BBu.text" = "Nationality";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "Sl0-dx-fNv"; */
+"Sl0-dx-fNv.text" = "Subtitle";
+
+/* Class = "UILabel"; text = "Register"; ObjectID = "UjT-oy-DGx"; */
+"UjT-oy-DGx.text" = "Register";
+
+/* Class = "UIButton"; normalTitle = "Map"; ObjectID = "V4q-Mz-9UH"; */
+"V4q-Mz-9UH.normalTitle" = "Map";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "Xe3-Dh-5Ez"; */
+"Xe3-Dh-5Ez.normalTitle" = "Search";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ycp-CP-1te"; */
+"Ycp-CP-1te.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YkN-C5-tAN"; */
+"YkN-C5-tAN.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YrS-DZ-2yM"; */
+"YrS-DZ-2yM.text" = "Label";
+
+/* Class = "UILabel"; text = "Cradit card"; ObjectID = "c1x-mu-JlE"; */
+"c1x-mu-JlE.text" = "Cradit card";
+
+/* Class = "UIButton"; normalTitle = "Log out"; ObjectID = "cwO-ZJ-4G6"; */
+"cwO-ZJ-4G6.normalTitle" = "Log out";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hDv-W4-vaa"; */
+"hDv-W4-vaa.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hv4-Is-hpx"; */
+"hv4-Is-hpx.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Pay"; ObjectID = "j2R-cF-KP4"; */
+"j2R-cF-KP4.normalTitle" = "Pay";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "jOD-zA-96f"; */
+"jOD-zA-96f.text" = "Title";
+
+/* Class = "UILabel"; text = "Tom Tom"; ObjectID = "kGE-m6-sSZ"; */
+"kGE-m6-sSZ.text" = "Tom Tom";
+
+/* Class = "UILabel"; text = "TAXI"; ObjectID = "l1f-bn-FTm"; */
+"l1f-bn-FTm.text" = "TAXI";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "lLg-xX-f9x"; */
+"lLg-xX-f9x.normalTitle" = "Register";
+
+/* Class = "UILabel"; text = "Mobile number"; ObjectID = "oT5-8y-QOE"; */
+"oT5-8y-QOE.text" = "Mobile number";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "psF-Uf-Tf3"; */
+"psF-Uf-Tf3.text" = "Subtitle";
+
+/* Class = "UIButton"; normalTitle = "Forget password?"; ObjectID = "qwi-T0-E01"; */
+"qwi-T0-E01.normalTitle" = "Forget password?";
+
+/* Class = "UILabel"; text = "TAXI"; ObjectID = "sig-ow-OmL"; */
+"sig-ow-OmL.text" = "TAXI";
+
+/* Class = "UILabel"; text = "Expiration"; ObjectID = "tDU-cr-WiF"; */
+"tDU-cr-WiF.text" = "Expiration";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "yb1-WG-wvd"; */
+"yb1-WG-wvd.text" = "Title";
+
+/* Class = "UITabBarItem"; badgeValue = "Pick"; ObjectID = "zxN-pk-WmO"; */
+"zxN-pk-WmO.badgeValue" = "Pick";
+
+/* Class = "UITabBarItem"; title = "Pick from the map"; ObjectID = "zxN-pk-WmO"; */
+"zxN-pk-WmO.title" = "Pick from the map";

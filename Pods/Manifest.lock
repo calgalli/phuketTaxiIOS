@@ -1,0 +1,13 @@
+PODS:
+  - GoogleMaps (1.10.1)
+  - MQTTClient (0.2.2)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - MQTTClient (= 0.2.2)
+
+SPEC CHECKSUMS:
+  GoogleMaps: ebf08677f181d9c2dcdbd1721d206f02beccc9b1
+  MQTTClient: 9406028ea7773676bd65bfcac4d0e595169d83f6
+
+COCOAPODS: 0.37.2
